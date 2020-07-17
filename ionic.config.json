@@ -1,0 +1,7 @@
+{
+  "name": "FormLayout2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
